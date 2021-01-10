@@ -22,3 +22,5 @@ or just execute `install.sh` on Linux x64 platform.
     chmod +x install.sh
     sudo ./install.sh <your_authtoken>
 ```
+
+Step 6: Check https://dashboard.ngrok.com/status/tunnels 
